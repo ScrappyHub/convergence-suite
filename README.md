@@ -193,7 +193,7 @@ It ensures all instruments implementing ecosystem protocols remain deterministic
 
 ---
 
-Definition of Done (Current Release)
+**Definition of Done (Current Release)**
 
 The current Convergence Suite release is considered sealed when:
 

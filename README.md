@@ -211,5 +211,5 @@ TBD
 Status
 
 Convergence Suite v1
-Tier-0 sealed
+
 Integration ready for Covenant Systems instruments.
